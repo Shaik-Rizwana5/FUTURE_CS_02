@@ -6,7 +6,7 @@ Analyze a phishing email sample and identify phishing indicators.
 ## Tools Used
 - Browser
 - Sample Phishing Email
-- Gamma
+- Canva
 - GitHub
 
 ## Analysis Approach
